@@ -46,7 +46,7 @@ function FeedbackForm({ onSubmit }) {
       <div className="flex items-start justify-between gap-2">
         <div>
           <p className="text-xs uppercase tracking-[0.2em] text-indigo-300">New entry</p>
-          <h2 className="text-xl font-semibold">Submit Feedback</h2>
+          <h2 className="text-xl font-semibold">Submit Feedback!</h2>
         </div>
         <span className="text-xs text-slate-400">Status: {form.status}</span>
       </div>
